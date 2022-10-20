@@ -1,0 +1,8 @@
+pandas
+psycopg2
+python-dotenv
+pre-commit
+boto3
+black
+sqlalchemy
+gitpython
